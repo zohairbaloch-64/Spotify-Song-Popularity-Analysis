@@ -2,8 +2,6 @@
 
 ## A Data Visualization Study Using Spotify Track Data
 
-![Spotify Dashboard](spotify_dashboard_cover.png)
-
 ## 📌 Project Overview
 
 This project explores Spotify track data to understand the factors associated with song popularity.
