@@ -2,7 +2,7 @@
 
 ## A Data Visualization Study Using Spotify Track Data
 
-![Spotify Dashboard](images/spotify_dashboard_cover.png)
+![Spotify Dashboard](spotify_dashboard_cover.png)
 
 ## 📌 Project Overview
 
