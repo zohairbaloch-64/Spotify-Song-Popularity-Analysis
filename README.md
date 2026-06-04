@@ -2,7 +2,7 @@
 
 ## A Data Visualization Study Using Spotify Track Data
 
-## 📌 Project Overview
+##  Project Overview
 
 This project explores Spotify track data to understand the factors associated with song popularity.
 
@@ -12,7 +12,7 @@ The objective is to transform raw music data into meaningful insights and identi
 
 ---
 
-## 🎯 Research Questions
+##  Research Questions
 
 * What is the distribution of song popularity?
 * Which genres achieve the highest popularity?
@@ -23,7 +23,7 @@ The objective is to transform raw music data into meaningful insights and identi
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 The dashboard summarizes the key visual insights from the analysis.
 ![Spotify Dashboard](spotify_dashboard_cover.png)
@@ -39,7 +39,7 @@ The dashboard summarizes the key visual insights from the analysis.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
