@@ -50,7 +50,7 @@ The dashboard summarizes the key visual insights from the analysis.
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 Dataset: Spotify Tracks Dataset
 
@@ -71,7 +71,7 @@ Key Features:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 ### 1. Popular Songs Are Rare
 
@@ -101,7 +101,7 @@ No single feature strongly predicts popularity. Song success appears to be influ
 
 ---
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 This project demonstrates how data visualization can be used to uncover meaningful patterns in music streaming data and answer business-oriented analytical questions.
 
